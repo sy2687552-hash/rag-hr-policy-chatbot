@@ -14,7 +14,9 @@ Employees rarely read HR policies, so HR answers the same questions repeatedly
 ## ✅ The solution
 Employees ask a question in plain language. The app finds the most relevant
 policy sections and returns a short, grounded answer, with the source shown.
-sreenshot.png
+Screenshot 2026-10-09 223533.png
+
+Screenshot 2026-10-09 223558.png
 
 ## ✨ Features
 - Answers based only on the policy document
